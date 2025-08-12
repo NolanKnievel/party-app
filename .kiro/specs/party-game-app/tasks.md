@@ -8,7 +8,7 @@
   - Create unit tests for data model validation and initialization
   - _Requirements: 1.3, 8.1, 8.2_
 
-- [ ] 2. Implement Core Data persistence layer
+- [x] 2. Implement Core Data persistence layer
 
   - Create Core Data model file with DeckEntity and QuestionEntity
   - Implement Core Data stack with CloudKit integration
