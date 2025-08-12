@@ -1,6 +1,6 @@
 # Implementation Plan
 
-- [x] 1. Set up project structure and core data models
+- [ ] 1. Set up project structure and core data models
 
   - Create new iOS project with SwiftUI and Core Data
   - Define core Swift structs for Player, Question, QuestionDeck, and GameState
@@ -8,7 +8,7 @@
   - Create unit tests for data model validation and initialization
   - _Requirements: 1.3, 8.1, 8.2_
 
-- [x] 2. Implement Core Data persistence layer
+- [ ] 2. Implement Core Data persistence layer
 
   - Create Core Data model file with DeckEntity and QuestionEntity
   - Implement Core Data stack with CloudKit integration
