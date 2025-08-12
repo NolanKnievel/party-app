@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'PartyGameApp' in project 'PartyGameApp' (no dependencies)
