@@ -1,6 +1,6 @@
 # Implementation Plan
 
-- [ ] 1. Set up project structure and core data models
+- [x] 1. Set up project structure and core data models
 
   - Create new iOS project with SwiftUI and Core Data
   - Define core Swift structs for Player, Question, QuestionDeck, and GameState
